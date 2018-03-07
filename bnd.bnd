@@ -1,0 +1,5 @@
+Bundle-Name: overlayprime
+Bundle-SymbolicName: overlayprime
+Bundle-Version: 1.0.0
+Export-Package: overlayprime.constants
+Web-ContextPath: /overlayprime
